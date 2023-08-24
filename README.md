@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full-stack developer from Pittsburgh, USA</h3>
 <img align="right" alt="blonde programmer" width="400" src="https://static.wixstatic.com/media/e829ed_032c60461e5f44e299906375499c876f~mv2.gif">
 
-- 🔭 I’m currently working on **Todo List Application**
+- 🔭 I’m currently working on my **Todo List Application**
 
 - 📫 How to reach me **andrewclements257@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing](https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing" target="_blank"> **My Resume**</a>
 
-- ⚡ Fun fact **I like to play the banjo on my back porch**
+- ⚡ Fun fact **I like to play the banjo on my back porch in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
