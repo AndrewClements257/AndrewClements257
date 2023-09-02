@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **andrewclements257@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing" target="_blank"> **My Resume**</a>
+- 📄 Learn about my experiences <a href="https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing" target="_blank"> **My Resume**</a>
 
 - ⚡ Fun fact **I like to play the banjo on my back porch in my spare time**
 
