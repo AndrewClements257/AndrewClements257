@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Pittsburgh, USA</h3>
 <img align="right" alt="blonde programmer" width="300" src="https://static.wixstatic.com/media/e829ed_032c60461e5f44e299906375499c876f~mv2.gif">
 
-- ⚒️ I’m currently working on my **Todo List Application**
+- ⚒️ I’m currently working on my **Collection Application**
 
 - 🧠 I'm currently learning **Python 3**
 
