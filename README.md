@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Clements</h1>
 <h3 align="center">A passionate full-stack developer from Pittsburgh, USA</h3>
-<img align="right" alt="blonde programmer" width="300" src="https://static.wixstatic.com/media/e829ed_032c60461e5f44e299906375499c876f~mv2.gif">
+<img align="right" alt="An old compter with a static filled screen above a cool watery background" width="300" src="https://static.wixstatic.com/media/e829ed_032c60461e5f44e299906375499c876f~mv2.gif">
 
 - ⚒️ I’m currently working on my **Collection Application**
 
@@ -9,6 +9,8 @@
 - 📫 How to reach me **andrewclements257@gmail.com**
 
 - 📄 Learn about my experiences <a href="https://docs.google.com/document/d/118NuP72iaz915Kj3_kSzY0DQTEtmk0Z287LWdFaWMMg/edit?usp=sharing" target="_blank"> **My Resume**</a>
+
+- 🌐 Check out my portfolio <a href="www.andrewclements.net" target="_blank"> **My Website**</a>
 
 - ⚡ Fun fact **I like to play the banjo on my back porch in my spare time**
 
